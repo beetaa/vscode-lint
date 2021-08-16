@@ -31,6 +31,9 @@
 			"typings"
 		]
 	},
+	"include": [
+		"demo"
+	],
 	"exclude": [
 		"node_modules"
 	]
